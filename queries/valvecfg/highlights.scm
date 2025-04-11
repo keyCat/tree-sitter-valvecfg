@@ -6,7 +6,7 @@
 
 ; Statements
 (cmd
-  (identifier) @class)
+  (identifier) @function.call)
 (cvar
   (identifier) @function.call)
 

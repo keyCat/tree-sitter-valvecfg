@@ -1,6 +1,6 @@
 # Tree-sitter Valve CFG Grammar
 
-Tree-sitter grammar `.cfg` configuration files used in Valve games.
+Tree-sitter grammar for `.cfg` configuration files used in Valve games.
 
 <img width="813" alt="highlights" src="https://github.com/user-attachments/assets/9d956b29-b9f3-4a21-b1d3-cef1dac4e2f1" />
 
